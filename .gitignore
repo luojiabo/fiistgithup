@@ -1,0 +1,14 @@
+Library
+Temp
+*.vs
+*.csproj
+*.sln
+obj
+*.log
+*.svg
+*.xlsx
+*.exe
+*.user
+/UbtrobotX/.idea
+/UbtrobotX/Build
+/UbtrobotX/Export

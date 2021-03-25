@@ -1,0 +1,82 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &4203947060462484581
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4203947060462484583}
+  - component: {fileID: 4203947060462484582}
+  m_Layer: 0
+  m_Name: RoboticArm_WebSocketClient
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4203947060462484583
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4203947060462484581}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0.8019622, y: 0.5073557, z: 1.2470132}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &4203947060462484582
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4203947060462484581}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 17f0e29cd3535ac4fbf468c062bb2da6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  sendContents:
+  - Key: {fileID: 4900000, guid: 53ce45fafc1e646488335e22445b4d1d, type: 3}
+    Value: 0.5
+  - Key: {fileID: 4900000, guid: 100e08edf85d51f45a78c668c800a621, type: 3}
+    Value: 0.5
+  - Key: {fileID: 4900000, guid: 3d4d7dc525efbf746bbbb99308e7b4d1, type: 3}
+    Value: 0
+  - Key: {fileID: 4900000, guid: 9d87d3acf286c5e48b254a4fb9a9d8d3, type: 3}
+    Value: 0.5
+  - Key: {fileID: 4900000, guid: 1b090e074c62b59478bd78abd6975edf, type: 3}
+    Value: 0
+  - Key: {fileID: 4900000, guid: b7cbc40055b42714fb074bbd6a539feb, type: 3}
+    Value: 0
+  - Key: {fileID: 4900000, guid: 3efb9026509e7a945af98b7ae149b620, type: 3}
+    Value: 0
+  - Key: {fileID: 4900000, guid: c57bc9fa1bf8d9a489fc16c4cfcf6532, type: 3}
+    Value: 0
+  - Key: {fileID: 4900000, guid: a1e095600917d3040843ed9a78f1cbe4, type: 3}
+    Value: 0
+  recvContents:
+  - Key: {fileID: 4900000, guid: 53ce45fafc1e646488335e22445b4d1d, type: 3}
+    Value: 1
+  - Key: {fileID: 4900000, guid: 100e08edf85d51f45a78c668c800a621, type: 3}
+    Value: 1
+  - Key: {fileID: 4900000, guid: 3d4d7dc525efbf746bbbb99308e7b4d1, type: 3}
+    Value: 0
+  - Key: {fileID: 4900000, guid: 9d87d3acf286c5e48b254a4fb9a9d8d3, type: 3}
+    Value: 1
+  - Key: {fileID: 4900000, guid: 1b090e074c62b59478bd78abd6975edf, type: 3}
+    Value: 0
+  - Key: {fileID: 4900000, guid: b7cbc40055b42714fb074bbd6a539feb, type: 3}
+    Value: 1
+  - Key: {fileID: 4900000, guid: 3efb9026509e7a945af98b7ae149b620, type: 3}
+    Value: 1
+  - Key: {fileID: 4900000, guid: c57bc9fa1bf8d9a489fc16c4cfcf6532, type: 3}
+    Value: 1
+  debug: 0

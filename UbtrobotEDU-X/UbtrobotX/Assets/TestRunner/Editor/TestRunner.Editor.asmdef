@@ -1,0 +1,33 @@
+﻿{
+    "name": "TestRunner.Editor",
+    "references": [
+        "UnityEngine.TestRunner",
+        "UnityEditor.TestRunner",
+        "LokiEngine.Runtime",
+        "LokiEngine.Editor",
+        "LokiUI.Runtime",
+        "LokiUI.Editor",
+        "LokiPlugins.Runtime",
+        "Ubtrobot.Runtime",
+        "Ubtrobot.Editor",
+        "Unity.Addressables",
+        "Unity.Addressables.Editor",
+        "Unity.ResourceManager",
+        "Unity.ScriptableBuildPipeline"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": [
+        "nunit.framework.dll"
+    ],
+    "autoReferenced": false,
+    "defineConstraints": [
+        "UNITY_INCLUDE_TESTS"
+    ],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

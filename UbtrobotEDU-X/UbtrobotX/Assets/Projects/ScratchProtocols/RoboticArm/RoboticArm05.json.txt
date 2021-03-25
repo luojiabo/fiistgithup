@@ -1,0 +1,1 @@
+{"device":1,"mode":128,"id":1,"data":[0,500],"uuid":"leMode"}

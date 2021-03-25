@@ -1,0 +1,20 @@
+{
+    "name": "Ubtrobot.Editor",
+    "references": [
+        "GUID:22e3cea5be937d248803207f461841ad",
+        "GUID:f3b841a9e3084244daa3ad193f5783b7",
+        "GUID:18ab936f7f051a24fae0c933b8967c31",
+        "GUID:78d8a7e7fcdb3ef42b2170a4f83b4f92",
+        "GUID:6794cb8f875856b41b1a99544d393085"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": true,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": []
+}

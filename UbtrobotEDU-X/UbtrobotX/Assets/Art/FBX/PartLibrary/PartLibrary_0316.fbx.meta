@@ -1,0 +1,1619 @@
+fileFormatVersion: 2
+guid: 4c4bb17d999e99e408f1446939872349
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: C1
+    100002: C10
+    100004: C11
+    100006: C12
+    100008: C13
+    100010: C14
+    100012: C15
+    100014: C16
+    100016: C2
+    100018: C3
+    100020: C4
+    100022: C5
+    100024: C6
+    100026: C7
+    100028: C8
+    100030: C9
+    100032: DC_MOTOR
+    100034: DP
+    100036: DP 1
+    100038: fangxiang
+    100040: fangxiang 1
+    100042: fangxiang 2
+    100044: fangxiang 3
+    100046: fangxiang 4
+    100048: fangxiang 5
+    100050: fangxiang 6
+    100052: fangxiang 7
+    100054: fangxiang 8
+    100056: fangxiang1
+    100058: fangxiang10
+    100060: fangxiang2
+    100062: fangxiang2 1
+    100064: fangxiang3
+    100066: fangxiang4
+    100068: fangxiang5
+    100070: fangxiang6
+    100072: fangxiang7
+    100074: fangxiang8
+    100076: fangxiang9
+    100078: Group
+    100080: group
+    100082: Group 1
+    100084: Group 10
+    100086: Group 11
+    100088: Group 12
+    100090: Group 13
+    100092: Group 14
+    100094: Group 15
+    100096: Group 2
+    100098: Group 3
+    100100: Group 4
+    100102: Group 5
+    100104: Group 6
+    100106: Group 7
+    100108: Group 8
+    100110: Group 9
+    100112: Group077
+    100114: joint1
+    100116: joint1 1
+    100118: joint10
+    100120: joint10 1
+    100122: joint2
+    100124: joint2 1
+    100126: joint3
+    100128: joint3 1
+    100130: joint4
+    100132: joint4 1
+    100134: joint5
+    100136: joint5 1
+    100138: joint6
+    100140: joint6 1
+    100142: joint7
+    100144: joint7 1
+    100146: joint8
+    100148: joint8 1
+    100150: joint9
+    100152: joint9 1
+    100154: Line1
+    100156: Line1 1
+    100158: lnA
+    100160: lnB
+    100162: LP
+    100164: M1
+    100166: M100
+    100168: M116
+    100170: M12
+    100172: M13
+    100174: M14
+    100176: M16
+    100178: M17
+    100180: M18
+    100182: M19
+    100184: M2
+    100186: M20
+    100188: M21
+    100190: M22
+    100192: M23
+    100194: M24
+    100196: M25
+    100198: M26
+    100200: M27
+    100202: M28
+    100204: M3
+    100206: M34
+    100208: M35
+    100210: M36
+    100212: M38
+    100214: M4
+    100216: M47
+    100218: M48
+    100220: M49
+    100222: M5
+    100224: M50
+    100226: M51
+    100228: M53
+    100230: M54
+    100232: M6
+    100234: M67
+    100236: M68
+    100238: M69
+    100240: M7
+    100242: M70
+    100244: M71
+    100246: M72
+    100248: M79
+    100250: M8
+    100252: M80
+    100254: M82
+    100256: M84
+    100258: M91
+    100260: M98
+    100262: MC
+    100264: ObjectA
+    100266: ObjectA 1
+    100268: ObjectB
+    100270: ObjectB 1
+    100272: onoff
+    100274: Plane1
+    100276: polySurface111
+    100278: polySurface113
+    100280: polySurface116
+    100282: polySurface120
+    100284: polySurface124
+    100286: polySurface127
+    100288: polySurface182
+    100290: polySurface184
+    100292: polySurface26
+    100294: polySurface26 1
+    100296: polySurface33
+    100298: polySurface38
+    100300: polySurface39
+    100302: polySurface42
+    100304: polySurface73
+    100306: polySurface74
+    100308: S01
+    100310: S03
+    100312: S05
+    100314: S06
+    100316: S09
+    100318: SERVO
+    100320: SERVO_IDBG
+    100322: //RootNode
+    100324: C6 1
+    100326: DP1
+    100328: DP2
+    100330: DP3
+    100332: fangxiang 10
+    100334: fangxiang 11
+    100336: fangxiang 9
+    100338: fangxiang11
+    100340: fangxiang12
+    100342: fangxiang13
+    100344: fangxiang14
+    100346: fangxiang15
+    100348: fangxiang16
+    100350: fangxiang17
+    100352: fangxiang18
+    100354: fangxiang19
+    100356: fangxiang20
+    100358: fangxiang21
+    100360: fangxiang22
+    100362: fangxiang23
+    100364: fangxiang24
+    100366: fangxiang25
+    100368: fangxiang26
+    100370: fangxiang27
+    100372: fangxiang28
+    100374: fangxiang29
+    100376: fangxiang30
+    100378: fangxiang31
+    100380: fangxiang32
+    100382: fangxiang33
+    100384: fangxiang34
+    100386: Group1
+    100388: Group10
+    100390: Group11
+    100392: Group12
+    100394: Group13
+    100396: Group14
+    100398: Group15
+    100400: Group16
+    100402: Group17
+    100404: Group18
+    100406: Group19
+    100408: Group2
+    100410: Group20
+    100412: Group21
+    100414: Group22
+    100416: Group23
+    100418: Group24
+    100420: Group25
+    100422: Group26
+    100424: Group27
+    100426: Group28
+    100428: Group29
+    100430: Group3
+    100432: Group30
+    100434: Group31
+    100436: Group32
+    100438: Group33
+    100440: Group34
+    100442: Group35
+    100444: Group36
+    100446: Group37
+    100448: Group38
+    100450: Group39
+    100452: Group4
+    100454: Group40
+    100456: Group41
+    100458: Group42
+    100460: Group43
+    100462: Group44
+    100464: Group45
+    100466: Group5
+    100468: Group6
+    100470: Group7
+    100472: Group8
+    100474: Group9
+    100476: joint10 2
+    100478: joint10 3
+    100480: joint10 4
+    100482: joint10 5
+    100484: joint10 6
+    100486: joint10 7
+    100488: joint11
+    100490: joint12
+    100492: joint13
+    100494: joint14
+    100496: joint15
+    100498: joint16
+    100500: joint2 2
+    100502: joint2 3
+    100504: joint2 4
+    100506: joint2 5
+    100508: joint2 6
+    100510: joint2 7
+    100512: joint3 2
+    100514: joint3 3
+    100516: joint3 4
+    100518: joint3 5
+    100520: joint3 6
+    100522: joint3 7
+    100524: joint4 2
+    100526: joint4 3
+    100528: joint4 4
+    100530: joint4 5
+    100532: joint4 6
+    100534: joint4 7
+    100536: joint5 2
+    100538: joint5 3
+    100540: joint5 4
+    100542: joint5 5
+    100544: joint5 6
+    100546: joint5 7
+    100548: joint6 2
+    100550: joint6 3
+    100552: joint6 4
+    100554: joint6 5
+    100556: joint6 6
+    100558: joint6 7
+    100560: joint7 2
+    100562: joint7 3
+    100564: joint7 4
+    100566: joint7 5
+    100568: joint7 6
+    100570: joint7 7
+    100572: joint8 2
+    100574: joint8 3
+    100576: joint8 4
+    100578: joint8 5
+    100580: joint8 6
+    100582: joint8 7
+    100584: joint9 2
+    100586: joint9 3
+    100588: joint9 4
+    100590: joint9 5
+    100592: joint9 6
+    100594: joint9 7
+    100596: Line1 2
+    100598: Line1 3
+    100600: Line1 4
+    100602: Line1 5
+    100604: Line1 6
+    100606: Line1 7
+    100608: ObjectA 2
+    100610: ObjectA 3
+    100612: ObjectA 4
+    100614: ObjectA 5
+    100616: ObjectA 6
+    100618: ObjectA 7
+    100620: ObjectB 2
+    100622: ObjectB 3
+    100624: ObjectB 4
+    100626: ObjectB 5
+    100628: ObjectB 6
+    100630: ObjectB 7
+    100632: polySurface26 2
+    100634: polySurface26 3
+    100636: polySurface26 4
+    100638: polySurface26 5
+    100640: polySurface26 6
+    100642: polySurface26 7
+    100644: S10
+    100646: S11
+    100648: S12
+    100650: Battery
+    100652: Battery_01
+    100654: Battery_02
+    100656: C19
+    100658: C20
+    100660: EM01
+    100662: EM02
+    100664: Group 16
+    100666: Group 17
+    100668: joint1 2
+    100670: joint1 3
+    100672: joint1 4
+    100674: joint17
+    100676: joint19
+    100678: joint20
+    100680: joint21
+    100682: M103
+    100684: M15
+    100686: M37
+    100688: M46
+    100690: M78
+    100692: M86
+    100694: M87
+    100696: M9
+    100698: M92
+    100700: M99
+    100702: PCBA_2
+    100704: PCBA_2A
+    100706: PCBA_2B
+    100708: pCube1
+    100710: pCube2
+    100712: polySurface1
+    100714: polySurface10
+    100716: polySurface29
+    100718: polySurface8
+    100720: S08
+    100722: W7
+    100724: joint10_02
+    100726: joint1_02
+    100728: joint2_02
+    100730: joint3_02
+    100732: joint4_02
+    100734: joint5_02
+    100736: joint6_02
+    100738: joint7_02
+    100740: joint8_02
+    100742: joint9_02
+    100744: joint18
+    400000: C1
+    400002: C10
+    400004: C11
+    400006: C12
+    400008: C13
+    400010: C14
+    400012: C15
+    400014: C16
+    400016: C2
+    400018: C3
+    400020: C4
+    400022: C5
+    400024: C6
+    400026: C7
+    400028: C8
+    400030: C9
+    400032: DC_MOTOR
+    400034: DP
+    400036: DP 1
+    400038: fangxiang
+    400040: fangxiang 1
+    400042: fangxiang 2
+    400044: fangxiang 3
+    400046: fangxiang 4
+    400048: fangxiang 5
+    400050: fangxiang 6
+    400052: fangxiang 7
+    400054: fangxiang 8
+    400056: fangxiang1
+    400058: fangxiang10
+    400060: fangxiang2
+    400062: fangxiang2 1
+    400064: fangxiang3
+    400066: fangxiang4
+    400068: fangxiang5
+    400070: fangxiang6
+    400072: fangxiang7
+    400074: fangxiang8
+    400076: fangxiang9
+    400078: Group
+    400080: group
+    400082: Group 1
+    400084: Group 10
+    400086: Group 11
+    400088: Group 12
+    400090: Group 13
+    400092: Group 14
+    400094: Group 15
+    400096: Group 2
+    400098: Group 3
+    400100: Group 4
+    400102: Group 5
+    400104: Group 6
+    400106: Group 7
+    400108: Group 8
+    400110: Group 9
+    400112: Group077
+    400114: joint1
+    400116: joint1 1
+    400118: joint10
+    400120: joint10 1
+    400122: joint2
+    400124: joint2 1
+    400126: joint3
+    400128: joint3 1
+    400130: joint4
+    400132: joint4 1
+    400134: joint5
+    400136: joint5 1
+    400138: joint6
+    400140: joint6 1
+    400142: joint7
+    400144: joint7 1
+    400146: joint8
+    400148: joint8 1
+    400150: joint9
+    400152: joint9 1
+    400154: Line1
+    400156: Line1 1
+    400158: lnA
+    400160: lnB
+    400162: LP
+    400164: M1
+    400166: M100
+    400168: M116
+    400170: M12
+    400172: M13
+    400174: M14
+    400176: M16
+    400178: M17
+    400180: M18
+    400182: M19
+    400184: M2
+    400186: M20
+    400188: M21
+    400190: M22
+    400192: M23
+    400194: M24
+    400196: M25
+    400198: M26
+    400200: M27
+    400202: M28
+    400204: M3
+    400206: M34
+    400208: M35
+    400210: M36
+    400212: M38
+    400214: M4
+    400216: M47
+    400218: M48
+    400220: M49
+    400222: M5
+    400224: M50
+    400226: M51
+    400228: M53
+    400230: M54
+    400232: M6
+    400234: M67
+    400236: M68
+    400238: M69
+    400240: M7
+    400242: M70
+    400244: M71
+    400246: M72
+    400248: M79
+    400250: M8
+    400252: M80
+    400254: M82
+    400256: M84
+    400258: M91
+    400260: M98
+    400262: MC
+    400264: ObjectA
+    400266: ObjectA 1
+    400268: ObjectB
+    400270: ObjectB 1
+    400272: onoff
+    400274: Plane1
+    400276: polySurface111
+    400278: polySurface113
+    400280: polySurface116
+    400282: polySurface120
+    400284: polySurface124
+    400286: polySurface127
+    400288: polySurface182
+    400290: polySurface184
+    400292: polySurface26
+    400294: polySurface26 1
+    400296: polySurface33
+    400298: polySurface38
+    400300: polySurface39
+    400302: polySurface42
+    400304: polySurface73
+    400306: polySurface74
+    400308: S01
+    400310: S03
+    400312: S05
+    400314: S06
+    400316: S09
+    400318: SERVO
+    400320: SERVO_IDBG
+    400322: //RootNode
+    400324: C6 1
+    400326: DP1
+    400328: DP2
+    400330: DP3
+    400332: fangxiang 10
+    400334: fangxiang 11
+    400336: fangxiang 9
+    400338: fangxiang11
+    400340: fangxiang12
+    400342: fangxiang13
+    400344: fangxiang14
+    400346: fangxiang15
+    400348: fangxiang16
+    400350: fangxiang17
+    400352: fangxiang18
+    400354: fangxiang19
+    400356: fangxiang20
+    400358: fangxiang21
+    400360: fangxiang22
+    400362: fangxiang23
+    400364: fangxiang24
+    400366: fangxiang25
+    400368: fangxiang26
+    400370: fangxiang27
+    400372: fangxiang28
+    400374: fangxiang29
+    400376: fangxiang30
+    400378: fangxiang31
+    400380: fangxiang32
+    400382: fangxiang33
+    400384: fangxiang34
+    400386: Group1
+    400388: Group10
+    400390: Group11
+    400392: Group12
+    400394: Group13
+    400396: Group14
+    400398: Group15
+    400400: Group16
+    400402: Group17
+    400404: Group18
+    400406: Group19
+    400408: Group2
+    400410: Group20
+    400412: Group21
+    400414: Group22
+    400416: Group23
+    400418: Group24
+    400420: Group25
+    400422: Group26
+    400424: Group27
+    400426: Group28
+    400428: Group29
+    400430: Group3
+    400432: Group30
+    400434: Group31
+    400436: Group32
+    400438: Group33
+    400440: Group34
+    400442: Group35
+    400444: Group36
+    400446: Group37
+    400448: Group38
+    400450: Group39
+    400452: Group4
+    400454: Group40
+    400456: Group41
+    400458: Group42
+    400460: Group43
+    400462: Group44
+    400464: Group45
+    400466: Group5
+    400468: Group6
+    400470: Group7
+    400472: Group8
+    400474: Group9
+    400476: joint10 2
+    400478: joint10 3
+    400480: joint10 4
+    400482: joint10 5
+    400484: joint10 6
+    400486: joint10 7
+    400488: joint11
+    400490: joint12
+    400492: joint13
+    400494: joint14
+    400496: joint15
+    400498: joint16
+    400500: joint2 2
+    400502: joint2 3
+    400504: joint2 4
+    400506: joint2 5
+    400508: joint2 6
+    400510: joint2 7
+    400512: joint3 2
+    400514: joint3 3
+    400516: joint3 4
+    400518: joint3 5
+    400520: joint3 6
+    400522: joint3 7
+    400524: joint4 2
+    400526: joint4 3
+    400528: joint4 4
+    400530: joint4 5
+    400532: joint4 6
+    400534: joint4 7
+    400536: joint5 2
+    400538: joint5 3
+    400540: joint5 4
+    400542: joint5 5
+    400544: joint5 6
+    400546: joint5 7
+    400548: joint6 2
+    400550: joint6 3
+    400552: joint6 4
+    400554: joint6 5
+    400556: joint6 6
+    400558: joint6 7
+    400560: joint7 2
+    400562: joint7 3
+    400564: joint7 4
+    400566: joint7 5
+    400568: joint7 6
+    400570: joint7 7
+    400572: joint8 2
+    400574: joint8 3
+    400576: joint8 4
+    400578: joint8 5
+    400580: joint8 6
+    400582: joint8 7
+    400584: joint9 2
+    400586: joint9 3
+    400588: joint9 4
+    400590: joint9 5
+    400592: joint9 6
+    400594: joint9 7
+    400596: Line1 2
+    400598: Line1 3
+    400600: Line1 4
+    400602: Line1 5
+    400604: Line1 6
+    400606: Line1 7
+    400608: ObjectA 2
+    400610: ObjectA 3
+    400612: ObjectA 4
+    400614: ObjectA 5
+    400616: ObjectA 6
+    400618: ObjectA 7
+    400620: ObjectB 2
+    400622: ObjectB 3
+    400624: ObjectB 4
+    400626: ObjectB 5
+    400628: ObjectB 6
+    400630: ObjectB 7
+    400632: polySurface26 2
+    400634: polySurface26 3
+    400636: polySurface26 4
+    400638: polySurface26 5
+    400640: polySurface26 6
+    400642: polySurface26 7
+    400644: S10
+    400646: S11
+    400648: S12
+    400650: Battery
+    400652: Battery_01
+    400654: Battery_02
+    400656: C19
+    400658: C20
+    400660: EM01
+    400662: EM02
+    400664: Group 16
+    400666: Group 17
+    400668: joint1 2
+    400670: joint1 3
+    400672: joint1 4
+    400674: joint17
+    400676: joint19
+    400678: joint20
+    400680: joint21
+    400682: M103
+    400684: M15
+    400686: M37
+    400688: M46
+    400690: M78
+    400692: M86
+    400694: M87
+    400696: M9
+    400698: M92
+    400700: M99
+    400702: PCBA_2
+    400704: PCBA_2A
+    400706: PCBA_2B
+    400708: pCube1
+    400710: pCube2
+    400712: polySurface1
+    400714: polySurface10
+    400716: polySurface29
+    400718: polySurface8
+    400720: S08
+    400722: W7
+    400724: joint10_02
+    400726: joint1_02
+    400728: joint2_02
+    400730: joint3_02
+    400732: joint4_02
+    400734: joint5_02
+    400736: joint6_02
+    400738: joint7_02
+    400740: joint8_02
+    400742: joint9_02
+    400744: joint18
+    2100000: lambert10
+    2100002: lambert13
+    2100004: lambert20
+    2100006: bai
+    2100008: hei
+    2100010: P01_lambert10
+    2100012: P01_bai
+    2100014: P01_hei
+    2100016: P01_lambert15
+    2100018: lambert16
+    2100020: lambert17
+    2100022: P01_lambert18
+    2100024: lingjian_all13_UV_1__bai1
+    2100026: lingjian_all13_UV_1__lambert26
+    2100028: lingjian_all13_UV_1__lambert27
+    2100030: lingjian_all13_UV_1__lambert31
+    2100032: lingjian_all13_UV_1__lan1
+    2100034: s09_lambert24
+    2100036: lambert1
+    2100038: lambert15
+    2100040: lambert19
+    2100042: lambert18
+    2300000: C10
+    2300002: C16
+    2300004: DC_MOTOR
+    2300006: DP
+    2300008: DP 1
+    2300010: fangxiang
+    2300012: LP
+    2300014: M1
+    2300016: M100
+    2300018: M116
+    2300020: M12
+    2300022: M13
+    2300024: M14
+    2300026: M16
+    2300028: M17
+    2300030: M18
+    2300032: M19
+    2300034: M2
+    2300036: M20
+    2300038: M21
+    2300040: M22
+    2300042: M23
+    2300044: M24
+    2300046: M25
+    2300048: M26
+    2300050: M27
+    2300052: M28
+    2300054: M3
+    2300056: M34
+    2300058: M35
+    2300060: M36
+    2300062: M38
+    2300064: M4
+    2300066: M47
+    2300068: M48
+    2300070: M49
+    2300072: M5
+    2300074: M50
+    2300076: M51
+    2300078: M53
+    2300080: M54
+    2300082: M6
+    2300084: M67
+    2300086: M68
+    2300088: M69
+    2300090: M7
+    2300092: M70
+    2300094: M71
+    2300096: M72
+    2300098: M79
+    2300100: M8
+    2300102: M82
+    2300104: M84
+    2300106: M91
+    2300108: M98
+    2300110: onoff
+    2300112: Plane1
+    2300114: polySurface111
+    2300116: polySurface113
+    2300118: polySurface116
+    2300120: polySurface120
+    2300122: polySurface124
+    2300124: polySurface127
+    2300126: polySurface182
+    2300128: polySurface184
+    2300130: polySurface26
+    2300132: polySurface26 1
+    2300134: polySurface33
+    2300136: polySurface38
+    2300138: polySurface39
+    2300140: polySurface42
+    2300142: polySurface73
+    2300144: polySurface74
+    2300146: S01
+    2300148: S03
+    2300150: S05
+    2300152: S06
+    2300154: S09
+    2300156: SERVO_IDBG
+    2300158: Line1
+    2300160: Line1 1
+    2300162: ObjectA
+    2300164: ObjectA 1
+    2300166: ObjectB
+    2300168: ObjectB 1
+    2300170: C6 1
+    2300172: DP1
+    2300174: DP2
+    2300176: DP3
+    2300178: polySurface26 2
+    2300180: polySurface26 3
+    2300182: polySurface26 4
+    2300184: polySurface26 5
+    2300186: polySurface26 6
+    2300188: polySurface26 7
+    2300190: S10
+    2300192: S11
+    2300194: S12
+    2300196: Battery_01
+    2300198: C19
+    2300200: C20
+    2300202: EM01
+    2300204: EM02
+    2300206: M103
+    2300208: M15
+    2300210: M37
+    2300212: M46
+    2300214: M78
+    2300216: M86
+    2300218: M87
+    2300220: M9
+    2300222: M92
+    2300224: M99
+    2300226: PCBA_2
+    2300228: PCBA_2A
+    2300230: PCBA_2B
+    2300232: polySurface10
+    2300234: polySurface29
+    2300236: polySurface8
+    2300238: S08
+    3300000: C10
+    3300002: C16
+    3300004: DC_MOTOR
+    3300006: DP
+    3300008: DP 1
+    3300010: fangxiang
+    3300012: LP
+    3300014: M1
+    3300016: M100
+    3300018: M116
+    3300020: M12
+    3300022: M13
+    3300024: M14
+    3300026: M16
+    3300028: M17
+    3300030: M18
+    3300032: M19
+    3300034: M2
+    3300036: M20
+    3300038: M21
+    3300040: M22
+    3300042: M23
+    3300044: M24
+    3300046: M25
+    3300048: M26
+    3300050: M27
+    3300052: M28
+    3300054: M3
+    3300056: M34
+    3300058: M35
+    3300060: M36
+    3300062: M38
+    3300064: M4
+    3300066: M47
+    3300068: M48
+    3300070: M49
+    3300072: M5
+    3300074: M50
+    3300076: M51
+    3300078: M53
+    3300080: M54
+    3300082: M6
+    3300084: M67
+    3300086: M68
+    3300088: M69
+    3300090: M7
+    3300092: M70
+    3300094: M71
+    3300096: M72
+    3300098: M79
+    3300100: M8
+    3300102: M82
+    3300104: M84
+    3300106: M91
+    3300108: M98
+    3300110: onoff
+    3300112: Plane1
+    3300114: polySurface111
+    3300116: polySurface113
+    3300118: polySurface116
+    3300120: polySurface120
+    3300122: polySurface124
+    3300124: polySurface127
+    3300126: polySurface182
+    3300128: polySurface184
+    3300130: polySurface26
+    3300132: polySurface26 1
+    3300134: polySurface33
+    3300136: polySurface38
+    3300138: polySurface39
+    3300140: polySurface42
+    3300142: polySurface73
+    3300144: polySurface74
+    3300146: S01
+    3300148: S03
+    3300150: S05
+    3300152: S06
+    3300154: S09
+    3300156: SERVO_IDBG
+    3300158: Line1
+    3300160: Line1 1
+    3300162: ObjectA
+    3300164: ObjectA 1
+    3300166: ObjectB
+    3300168: ObjectB 1
+    3300170: C6 1
+    3300172: DP1
+    3300174: DP2
+    3300176: DP3
+    3300178: polySurface26 2
+    3300180: polySurface26 3
+    3300182: polySurface26 4
+    3300184: polySurface26 5
+    3300186: polySurface26 6
+    3300188: polySurface26 7
+    3300190: S10
+    3300192: S11
+    3300194: S12
+    3300196: Battery_01
+    3300198: C19
+    3300200: C20
+    3300202: EM01
+    3300204: EM02
+    3300206: M103
+    3300208: M15
+    3300210: M37
+    3300212: M46
+    3300214: M78
+    3300216: M86
+    3300218: M87
+    3300220: M9
+    3300222: M92
+    3300224: M99
+    3300226: PCBA_2
+    3300228: PCBA_2A
+    3300230: PCBA_2B
+    3300232: polySurface10
+    3300234: polySurface29
+    3300236: polySurface8
+    3300238: S08
+    4300000: Plane1
+    4300002: fangxiang
+    4300004: DP
+    4300006: polySurface26
+    4300008: polySurface26
+    4300010: polySurface33
+    4300012: polySurface38
+    4300014: polySurface39
+    4300016: polySurface42
+    4300018: polySurface73
+    4300020: polySurface74
+    4300022: polySurface111
+    4300024: C10
+    4300026: polySurface113
+    4300028: polySurface116
+    4300030: polySurface120
+    4300032: polySurface124
+    4300034: polySurface127
+    4300036: C16
+    4300038: onoff
+    4300040: polySurface182
+    4300042: LP
+    4300044: DP
+    4300046: polySurface184
+    4300048: M1
+    4300050: M2
+    4300052: M3
+    4300054: M4
+    4300056: M5
+    4300058: M6
+    4300060: M7
+    4300062: M8
+    4300064: M12
+    4300066: M13
+    4300068: M14
+    4300070: M70
+    4300072: M71
+    4300074: M72
+    4300076: M79
+    4300078: M47
+    4300080: M38
+    4300082: M36
+    4300084: M35
+    4300086: M34
+    4300088: M28
+    4300090: M27
+    4300092: M26
+    4300094: M25
+    4300096: M24
+    4300098: M23
+    4300100: M22
+    4300102: M54
+    4300104: M53
+    4300106: M51
+    4300108: M50
+    4300110: M49
+    4300112: M48
+    4300114: M69
+    4300116: M68
+    4300118: M67
+    4300120: M21
+    4300122: M20
+    4300124: M19
+    4300126: M18
+    4300128: M17
+    4300130: M16
+    4300132: S03
+    4300134: S01
+    4300136: S06
+    4300138: S05
+    4300140: S09
+    4300142: DC_MOTOR
+    4300144: SERVO_IDBG
+    4300146: M82
+    4300148: M84
+    4300150: M98
+    4300152: M91
+    4300154: M100
+    4300156: M116
+    4300158: Line1
+    4300160: ObjectA
+    4300162: ObjectB
+    4300164: Line1
+    4300166: ObjectA
+    4300168: ObjectB
+    4300170: C6
+    4300172: polySurface26
+    4300174: polySurface26
+    4300176: polySurface26
+    4300178: polySurface26
+    4300180: polySurface26
+    4300182: polySurface26
+    4300184: DP1
+    4300186: DP2
+    4300188: DP3
+    4300190: Line1
+    4300192: ObjectA
+    4300194: ObjectB
+    4300196: Line1
+    4300198: ObjectA
+    4300200: ObjectB
+    4300202: Line1
+    4300204: ObjectA
+    4300206: ObjectB
+    4300208: Line1
+    4300210: ObjectA
+    4300212: ObjectB
+    4300214: Line1
+    4300216: ObjectA
+    4300218: ObjectB
+    4300220: Line1
+    4300222: ObjectA
+    4300224: ObjectB
+    4300226: S12
+    4300228: S10
+    4300230: S11
+    4300232: polySurface1
+    4300234: pCube1
+    4300236: pCube2
+    4300238: M37
+    4300240: M9
+    4300242: M15
+    4300244: M92
+    4300246: M86
+    4300248: M78
+    4300250: M46
+    4300252: M99
+    4300254: M103
+    4300256: C19
+    4300258: C20
+    4300260: polySurface8
+    4300262: polySurface10
+    4300264: polySurface29
+    4300266: M87
+    4300268: PCBA_2B
+    4300270: PCBA_2A
+    4300272: EM02
+    4300274: EM01
+    4300276: Battery_01
+    4300278: PCBA_2
+    4300280: S08
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: Line1
+    13700002: Line1 1
+    13700004: ObjectA
+    13700006: ObjectA 1
+    13700008: ObjectB
+    13700010: ObjectB 1
+    13700012: Line1 2
+    13700014: Line1 3
+    13700016: Line1 4
+    13700018: Line1 5
+    13700020: Line1 6
+    13700022: Line1 7
+    13700024: ObjectA 2
+    13700026: ObjectA 3
+    13700028: ObjectA 4
+    13700030: ObjectA 5
+    13700032: ObjectA 6
+    13700034: ObjectA 7
+    13700036: ObjectB 2
+    13700038: ObjectB 3
+    13700040: ObjectB 4
+    13700042: ObjectB 5
+    13700044: ObjectB 6
+    13700046: ObjectB 7
+    13700048: pCube1
+    13700050: pCube2
+    13700052: polySurface1
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: JIAOyunlingjianku_Anim6_bai
+    second: {fileID: 2100000, guid: 971e713c026288049bf566c52b1b1254, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: JIAOyunlingjianku_Anim6_lambert10
+    second: {fileID: 2100000, guid: 6ce71d7db8d157c498b80399008a1f1d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: JIAOyunlingjianku_Anim6_lambert18
+    second: {fileID: 2100000, guid: 2c2ae2828f19c3b4ea42005ddbfb16eb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: JIAOyunlingjianku_jiaoyu_lambert13
+    second: {fileID: 2100000, guid: 348b5a87a24089d48b537cb1e3075c6f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: JIAOyunlingjianku_jiaoyu_lambert14
+    second: {fileID: 2100000, guid: aa638ca2f040f204bae3a1aaa80d7179, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: P01_bai
+    second: {fileID: 2100000, guid: 8c5bb64aac2086e489d152a329888180, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: P01_hei
+    second: {fileID: 2100000, guid: 1fff2d101736d7c4899be05efb372ad6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: P01_lambert10
+    second: {fileID: 2100000, guid: 881802b9c4d2e304cae0f50b4d8c48c5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: P01_lambert15
+    second: {fileID: 2100000, guid: 3c4ed18d8ffac2c4e8e03a81f3b60b5d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: P01_lambert18
+    second: {fileID: 2100000, guid: 8a718555932173844bdc383950c31e2a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Ucode_xinlingjian_UV_JIAOyunlingjianku_Anim6_bai
+    second: {fileID: 2100000, guid: faca998888fff004d8d1ace32e11efd3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Ucode_xinlingjian_UV_JIAOyunlingjianku_Anim6_lambert10
+    second: {fileID: 2100000, guid: e72d975941ab00e438d5f0c2aafa9134, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Ucode_xinlingjian_UV_lambert83
+    second: {fileID: 2100000, guid: 565f5206f62200342b724ffdae915c60, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Ucode_xinlingjian_UV_lambert85
+    second: {fileID: 2100000, guid: 3fdf0386eb1d18f418abcc2e3786137e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Ucode_xinlingjian_UV_lambert86
+    second: {fileID: 2100000, guid: 6eadba2e59487dd4492490341bc63278, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Ucode_xinlingjian_UV_lambert87
+    second: {fileID: 2100000, guid: fba6d927d7d4570469c0619526ec42d3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bai
+    second: {fileID: 2100000, guid: 35a2a61fa1642c14698ce0c018fee5d9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bai4
+    second: {fileID: 2100000, guid: 5df88201c47189845a3fad66540c1730, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: hei
+    second: {fileID: 2100000, guid: 253382a85b452794ab4a490bb98dff1a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: hei3
+    second: {fileID: 2100000, guid: 49e0f60c204b2ec4584a95ece3021405, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: hei4
+    second: {fileID: 2100000, guid: 567ff94be36f2ef4f83d8b96fdec1555, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: hei5
+    second: {fileID: 2100000, guid: 3b767f67101891d4da068743dab31bc9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: hei6
+    second: {fileID: 2100000, guid: e36a39b755fb52541b8e02554bcd260a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert1
+    second: {fileID: 2100000, guid: c30c293c16496c448ad0dc75e63b59b4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert10
+    second: {fileID: 2100000, guid: ca2c78b651604c34ba175eb0a5f98fcc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert13
+    second: {fileID: 2100000, guid: 7919c892a6facdd4982aed66a7d9faf0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert15
+    second: {fileID: 2100000, guid: 52d5f28c21f4cb945a4ee780032525e0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert16
+    second: {fileID: 2100000, guid: 4efba627fd4366e42936e9c594a20be3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert17
+    second: {fileID: 2100000, guid: c3df64d79a8cfbe438744af9aac84669, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert18
+    second: {fileID: 2100000, guid: d11e04742966e504e8575e70bc40bbce, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert19
+    second: {fileID: 2100000, guid: 13cd1d5754a9626499baa8d62b9c2c2e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert20
+    second: {fileID: 2100000, guid: 01b712b6bf27aae47bd6b8dd467e0638, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert23
+    second: {fileID: 2100000, guid: 5a21b344a75ecea47a6e0a17536f06ed, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert27
+    second: {fileID: 2100000, guid: b644bfa6bedcc5f41a1cdde6d62b1e06, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert28
+    second: {fileID: 2100000, guid: dba5c1f6acbeb814f8579f293589ff2b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert29
+    second: {fileID: 2100000, guid: d29699830d4acdd4ba2eb08a19d9236a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert46
+    second: {fileID: 2100000, guid: 4e2b6c6230fd99a4bbd9adccbc98d842, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert47
+    second: {fileID: 2100000, guid: 84139c32916dd2f4e843b577d9c671a5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert48
+    second: {fileID: 2100000, guid: d0290c42b9b99664c8161e5a03d95b1f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert49
+    second: {fileID: 2100000, guid: 916ec020aeced9942be7400ade1f70cb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert50
+    second: {fileID: 2100000, guid: 35dfc53d78e017546bd30a902682704d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert51
+    second: {fileID: 2100000, guid: 9d4ea56bd4533434db4ef98b55ef0c2e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert52
+    second: {fileID: 2100000, guid: 1404b259ed4e17841afe6f3c5bac780b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert55
+    second: {fileID: 2100000, guid: 048bb9279f58d1840baebae034e54f80, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert56
+    second: {fileID: 2100000, guid: c4d321a2ffb916e4e86c06b38f8facb3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert60
+    second: {fileID: 2100000, guid: 7d0d70cd842c4104e981ec94e9c8dbae, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert61
+    second: {fileID: 2100000, guid: 3c587f3058b7ec54b930646de3d8cba0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert62
+    second: {fileID: 2100000, guid: 32fcd17233d677141a740ad9af47c6f6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert65
+    second: {fileID: 2100000, guid: 0464bb7056a1a9343bc878e0ad0fd40f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert66
+    second: {fileID: 2100000, guid: 9509a04a9cf9e54408808439dcd0e851, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert67
+    second: {fileID: 2100000, guid: dac941a0a6f197b4eaacf0abc67f5f7b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert68
+    second: {fileID: 2100000, guid: 7cfe124b68e98c841b70bfe9de1ee70b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert70
+    second: {fileID: 2100000, guid: 19b417b8de9a5e24b93b160f7e5fcda9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert83
+    second: {fileID: 2100000, guid: c7d3a3f677f9cdc42ad40cfe420cdff3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert85
+    second: {fileID: 2100000, guid: 6fc7e3d016804824098ae8b086ca0171, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert86
+    second: {fileID: 2100000, guid: cca5a28abfb388c4ea9c106251e0162e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert87
+    second: {fileID: 2100000, guid: 6f8b2e016d23c624ab97ab03cd1a0d83, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert88
+    second: {fileID: 2100000, guid: bbb0fb475edb580408e5841bd662a851, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lingjian_all13_UV_1__bai1
+    second: {fileID: 2100000, guid: 66e02ead726bca6429b580a164403d43, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lingjian_all13_UV_1__bai3
+    second: {fileID: 2100000, guid: 6ac97f503765f31488157a3d5c260793, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lingjian_all13_UV_1__lambert26
+    second: {fileID: 2100000, guid: 95a71367a49af5a4b8a008e30c11e633, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lingjian_all13_UV_1__lambert27
+    second: {fileID: 2100000, guid: 9eb7289f62f6f3e429ffdfd9e13e71f2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lingjian_all13_UV_1__lambert31
+    second: {fileID: 2100000, guid: dd7dd2eb984bdb64fb1ce82bdf0a04b4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lingjian_all13_UV_1__lambert35
+    second: {fileID: 2100000, guid: ca4c3142c40cf054bbb496bc3683c0a0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lingjian_all13_UV_1__lambert36
+    second: {fileID: 2100000, guid: 42fcd5a6c529aa24f84c1588183b5184, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lingjian_all13_UV_1__lambert37
+    second: {fileID: 2100000, guid: 18e83c67b11e4474ba8fea9114925e8d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lingjian_all13_UV_1__lan1
+    second: {fileID: 2100000, guid: 3cd2c3f3070dfbe41b6c46c40f6617e3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lingjian_all13_UV_1__lan3
+    second: {fileID: 2100000, guid: 4c05612b240a53b4fa8db900d9c4fd25, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: s09_lambert24
+    second: {fileID: 2100000, guid: 4e9d56a4e52176642a65f9a6d61c3237, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: s09_lambert26
+    second: {fileID: 2100000, guid: c325cac5963e795478ec3624120b8165, type: 2}
+  materials:
+    importMaterials: 0
+    materialName: 1
+    materialSearch: 0
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 0
+    importBlendShapes: 0
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

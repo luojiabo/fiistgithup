@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<engine:UXML
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:engine="UnityEngine.UIElements"
+    xmlns:editor="UnityEditor.UIElements"
+    xsi:noNamespaceSchemaLocation="../../../../../../../UIElementsSchema/UIElements.xsd"
+>
+    <engine:Label class="title-label" text="ProjectBuilder"/>
+	<engine:VisualElement class="globalSettings">
+		<engine:VisualElement class="globalSettings-package">
+			<engine:Label text="packageName" class="globalSettings-packageLabel"/>
+			<engine:TextField text="packageName" name="packageName"  class="globalSettings-packageName"/>
+			<engine:Button text="Apply" name="packageApply" class="globalSettings-packageApply"/>
+		</engine:VisualElement>
+	</engine:VisualElement>
+	<engine:Foldout text="Windows" name="foldWindows" value="false">
+		<engine:VisualElement class="platformSettings">
+			<engine:Button text="Debug" name="buildWindowDebug" class="button-debug"/>
+			<engine:Button text="Release" name="buildWindowRelease" class="button-release"/>
+		</engine:VisualElement>
+	</engine:Foldout>
+	<engine:Foldout text="WebGL" name="foldWebGL" value="false">
+		<engine:VisualElement class="platformSettings">
+			<engine:Button text="Debug" name="buildWebGLDebug" class="button-debug"/>
+			<engine:Button text="Release" name="buildWebGLRelease" class="button-release"/>
+		</engine:VisualElement>
+	</engine:Foldout>
+	<engine:Foldout text="iOS" name="foldIOS" value="false">
+		<engine:VisualElement class="platformSettings">
+			<engine:Button text="Debug" name="buildIOSDebug" class="button-debug"/>
+			<engine:Button text="Release" name="buildIOSRelease" class="button-release"/>
+		</engine:VisualElement>
+	</engine:Foldout>
+	<engine:Foldout text="Android" name="foldAndroid" value="false" >
+		<engine:VisualElement class="platformSettings">
+			<engine:Button text="Debug" name="buildAndroidDebug" class="button-debug"/>
+			<engine:Button text="Release" name="buildAndroidRelease" class="button-release"/>
+		</engine:VisualElement>
+	</engine:Foldout>
+	<engine:Foldout text="OSX" name="foldOSX" value="false">
+		<engine:VisualElement class="platformSettings">
+			<engine:Button text="Debug" name="buildOSXGLDebug" class="button-debug"/>
+			<engine:Button text="Release" name="buildOSXRelease" class="button-release"/>
+		</engine:VisualElement>
+	</engine:Foldout>
+</engine:UXML>

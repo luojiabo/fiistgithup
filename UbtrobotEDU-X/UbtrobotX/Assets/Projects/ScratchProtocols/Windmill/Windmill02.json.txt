@@ -1,0 +1,1 @@
+{"device":2,"mode":130,"id":1,"data":[100],"uuid":"orStop"}

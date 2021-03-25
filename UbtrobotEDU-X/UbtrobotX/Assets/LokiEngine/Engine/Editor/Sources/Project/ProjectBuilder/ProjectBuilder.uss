@@ -1,0 +1,46 @@
+.title-label {
+	font-size: 32px;
+	-unity-font-style: bold;
+	color: rgb(128, 128, 128);
+}
+
+.globalSettings {
+	font-size: 14px;
+	-unity-font-style: bold;
+	color: rgb(150, 150, 150);
+}
+
+.globalSettings-package {
+	flex-direction: row;
+	margin-left: 3px;
+	margin-right: 3px;
+}
+
+.globalSettings-packageLabel {
+	margin-left: 3px;
+	margin-right: 3px;
+}
+
+.globalSettings-packageName {
+	width: 300px;
+	margin-left: 3px;
+	margin-right: 3px;
+}
+
+.globalSettings-packageApply {
+}
+
+.platformSettings {
+	font-size: 14px;
+	flex-direction: row;
+	-unity-font-style: bold;
+	color: rgb(150, 150, 150);
+}
+
+.button-release {
+	color : lawngreen;
+}
+
+.button-debug {
+	color : yellow;
+}

@@ -1,0 +1,74 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &7132623726879670291
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7132623726879670301}
+  - component: {fileID: 7132623726879670300}
+  - component: {fileID: 13974675}
+  m_Layer: 0
+  m_Name: Radar_WebSocketClient
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7132623726879670301
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7132623726879670291}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0.8019622, y: 0.5073557, z: 1.2470132}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &7132623726879670300
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7132623726879670291}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 17f0e29cd3535ac4fbf468c062bb2da6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  sendContents: []
+  recvContents:
+  - Key: {fileID: 4900000, guid: 598236a3d43e1fd42a1b86b4607a9370, type: 3}
+    Value: 5
+  debug: 0
+--- !u!114 &13974675
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7132623726879670291}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 51bc177a52dc8ae40a6c3d0b59f712b9, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  waitForSecondsLoop: 0.5
+  checkDistanceToWall:
+  - Key: {fileID: 4900000, guid: c47e2d8137df4cb45aacad00ec766dfd, type: 3}
+    Value: 0
+  runServos:
+  - Key: {fileID: 4900000, guid: 6618e8f07a78db84595760c9c80bd773, type: 3}
+    Value: 0
+  stopServos:
+  - Key: {fileID: 4900000, guid: 42fed680cc05e204a95310bb7b618a4f, type: 3}
+    Value: 0.3
+  stopDistance: 300
